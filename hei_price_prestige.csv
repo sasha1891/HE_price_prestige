@@ -1,0 +1,141 @@
+englishinstitutionname,uni_id,regionofestablishmentnuts2,nameofthecity,stud_enrolled,cnt,arwu_rank,thes_rank,glob_rank,rank_fees,median_income_imputed,pub
+U. Antwerp,86,BE21,Antwerpen,15926,BE,70,56,63,90,18400,1
+Ghent U.,18,BE23,Gent,35261,BE,11,20,15.5,92,19200,1
+KU Leuven,24,BE24,Leuven,44362,BE,20,7,13.5,91,20700,1
+Charles U. in Prague,13,CZ01,Praha,39786,CZ,56,114,85,103,16500,1
+U. Stuttgart,136,DE11,Stuttgart,25686,DE,82,55,68.5,116,23900,1
+Heidelberg U.,20,DE12,Heidelberg,27094,DE,8,9,8.5,118,22600,1
+Karlsruhe Institute of Technology,25,DE12,Karlsruhe,24528,DE,64,26,45,122,22600,1
+U. Konstanz,114,DE13,Konstanz,10853,DE,99,57,78,119,22900,1
+U. Freiburg,104,DE13,Freiburg im Breisgau,23734,DE,30,14,22,113,22900,1
+U. Ulm,81,DE14,Ulm,9663,DE,66,44,55,120,23300,1
+Technical U. Munich,47,DE21,München,37110,DE,9,5,7,117,25900,1
+U. Bayreuth,88,DE24,Bayreuth,12304,DE,108,78,93,131,21500,1
+Technical U. Darmstadt,45,DE71,Darmstadt,24884,DE,101,58,79.5,121,22600,1
+U. Duisburg-Essen,98,DEA1,Essen,41321,DE,89,67,78,128,21100,1
+U. Cologne,96,DEA2,Köln,49804,DE,48,34,41,129,21100,1
+U. Bonn,92,DEA2,Bonn,32626,DE,22,27,24.5,136,21100,1
+RWTH Aachen U.,1,DEA2,Aachen,39843,DE,65,13,39,126,21100,1
+Bielefeld U.,10,DEA4,Bielefeld,22938,DE,102,77,89.5,125,21700,1
+Technical U. Denmark,46,DK01,Lyngby,10813,DK,40,37,38.5,103,16600,1
+U. Copenhagen,97,DK01,København,37683,DK,4,36,20,103,16600,1
+U. Southern Denmark,134,DK03,Odense,23002,DK,78,79,78.5,103,15100,1
+Aarhus U.,4,DK04,Århus,33744,DK,14,22,18,103,15300,1
+Aristotle U. Thessaloniki,6,EL52,Thessaloniki,74282,EL,103,127,115,103,10900,1
+U. Santiago Compostela,130,ES11,Santiago de Compostela,21771,ES,95,130,112.5,74,14100,1
+U. Vigo,144,ES11,Vigo,18856,ES,,138,,74,14100,1
+U. the Basque Country,148,ES21,Lejoa,39891,ES,85.5,129,107.25,74,19900,1
+U. Zaragoza,147,ES24,Zaragoza,29629,ES,,131,,74,16400,1
+Complutense U. Madrid,14,ES30,Madrid,66425,ES,73,116,94.5,74,19300,1
+Autonomous U. Madrid,8,ES30,Madrid,26360,ES,77,105,91,74,19300,1
+Autonomous U. Barcelona,7,ES51,Barcelona,35649,ES,80,60,70,74,17500,1
+Pompeu Fabra U.,35,ES51,Barcelona,18054,ES,61,53,57,74,17500,1
+U. Barcelona,87,ES51,Barcelona,52580,ES,39,83,61,74,17500,1
+U. Rovira i Virgili,38,ES51,Tarragona,12988,ES,,112,,74,17500,1
+U. Valencia,143,ES52,València,44283,ES,98,122,110,74,13400,1
+Polytechnic U. Valencia,48,ES52,València,25635,ES,97,119,108,74,13400,1
+U. Seville,131,ES61,Sevilla,58756,ES,,135,,74,11800,1
+U. Granada,107,ES61,Granada,49203,ES,67,125,96,74,11800,1
+Aalto U.,3,FI1B,Espoo,14707,FI,93,64,78.5,103,19000,1
+U. Helsinki,110,FI1B,Helsinki,27354,FI,10,28,19,103,19000,1
+U. Turku,141,FI1C,Turku,14161,FI,83,102,92.5,103,16500,1
+U. Eastern Finland,101,FI1D,Kuopio,13894,FI,96,97,96.5,103,15700,1
+U. Oulu,122,FI1D,Oulu,11461,FI,,86,,103,15700,1
+Pierre and Marie  Curie U. - Paris 6,34,FR10,Paris,,FR,,50,,136,20900,1
+Paris 11,124,FR10,Orsay,,FR,7,71,39,103,20900,1
+Paris 7,33,FR10,Paris,,FR,25,85,55,136,20900,1
+U. Strasbourg,135,FRF1,Strasbourg,,FR,33,104,68.5,136,17500,1
+U. Bordeaux,93,FRI1,Bordeaux,,FR,62,100,81,136,17000,1
+U. Montpellier,117,FRJ1,Montpellier,,FR,57,106,81.5,103,15800,1
+U. Grenoble Alpes,19,FRK2,Grenoble,,FR,45,98,71.5,136,17900,1
+Claude Bernard U. Lyon 1,149,FRK2,Villeurbanne,,FR,50,113,81.5,136,17900,1
+Aix-Marseille U.,5,FRL0,Marseille,,FR,,92,,136,17500,1
+U. Nice Sophia Antipolis,119,FRL0,Nice,,FR,,140,,103,17500,1
+U. Zagreb,146,HR05,Zagreb,64207,HR,,139,,103,15500,1
+U. Szeged,137,HU33,Szeged,20501,HU,,137,,47,9900,1
+U. College Cork,83,IE05,Cork,17601,IE,105,91,98,42,15100,1
+U. College Dublin,84,IE06,Dublin,23306,IE,84,70,77,39,16500,1
+Trinity College Dublin,80,IE06,Dublin,14742,IE,43,33,38,36,16500,1
+U. Iceland,112,IS00,Reykjavík,,IS,,75,,103,22500,1
+U. Turin,140,ITC1,Torino,70750,IT,55,110,82.5,74,19300,1
+U. Genoa,105,ITC3,Genova,32994,IT,,115,,74,19400,1
+Vita-Salute San Raffaele U.,152,ITC4,Milano,2892,IT,104,87,95.5,26,21000,0
+U. Pavia,126,ITC4,Pavia,22937,IT,92,103,97.5,74,21000,1
+U. Milan,116,ITC4,Milano,62197,IT,46,93,69.5,74,21000,1
+U. Salerno,129,ITF3,Fisciano,35629,IT,,111,,74,12100,1
+U. Naples Federico II,118,ITF3,Napoli,75821,IT,75,107,91,74,12100,1
+U. Palermo,123,ITG1,Palermo,41057,IT,100,128,114,74,12300,1
+U. Cagliari,95,ITG2,Cagliari,26162,IT,,134,,74,14200,1
+U. Trieste,139,ITH4,Trieste,15450,IT,,109,,74,19500,1
+U. Ferrara,102,ITH5,Ferrara,16398,IT,106,124,115,74,20800,1
+U. Parma,125,ITH5,Parma,25109,IT,109,118,113.5,74,20800,1
+U. Bologna,91,ITH5,Bologna,81500,IT,53,80,66.5,74,20800,1
+U. Pisa,127,ITI1,Pisa,46968,IT,51,108,79.5,74,18600,1
+U. Florence,103,ITI1,Firenze,52310,IT,81,120,100.5,74,18600,1
+U. Siena,132,ITI1,Siena,16528,IT,,121,,74,18600,1
+Sapienza U. Rome,40,ITI4,Roma,105483,IT,49,88,68.5,74,17700,1
+U. Groningen,108,NL11,Groningen,28931,NL,15,16,15.5,56,15800,1
+U. Twente,142,NL21,Enschede,9435,NL,,31,,51,15900,1
+Radboud U. Nijmegen,37,NL22,Nijmegen,19727,NL,26,32,29,58,16600,1
+U. Amsterdam,85,NL32,Amsterdam,31698,NL,29,12,20.5,54,18400,1
+Delft U. Technology,15,NL33,Delft,22387,NL,47,8,27.5,48,17100,1
+Erasmus U. Rotterdam,17,NL33,Rotterdam,24953,NL,19,15,17,55,17100,1
+Leiden U.,26,NL33,Leiden,27077,NL,17,11,14,53,17100,1
+Tilburg U.,79,NL41,Tilburg,13162,NL,,46,,57,17100,1
+Eindhoven U. Technology,16,NL41,Eindhoven,10812,NL,91,23,57,50,17100,1
+Maastricht U.,30,NL42,Maastricht,16254,NL,69,18,43.5,52,16300,1
+Norwegian U. Science and Technology,49,NO06,Trondheim,39439,NO,32,84,58,115,18500,1
+U. Oslo,121,NO08,Oslo,28027,NO,12,48,30,112,22500,1
+U. Bergen,89,NO0A,Bergen,16555,NO,72,73,72.5,136,22500,1
+U. Warsaw,145,PL91,Warszawa,47600,PL,79,126,102.5,103,17500,1
+KTH Royal Institute of Technology,23,SE11,Stockholm,16104,SE,58,42,50,94,20000,1
+Stockholm U.,41,SE11,Stockholm,44015,SE,18,40,29,130,20000,1
+Uppsala U.,150,SE12,Uppsala,35819,SE,13,17,15,123,16700,1
+Swedish U. Agricultural Sciences,43,SE12,Uppsala,4693,SE,71,74,72.5,124,16700,1
+Lund U.,29,SE22,Lund,33228,SE,36,19,27.5,114,17100,1
+Chalmers U. Technology,12,SE23,Göteborg,9576,SE,76,65,70.5,93,17700,0
+U. Gothenburg,106,SE23,Göteborg,36701,SE,38,68,53,127,17700,1
+U. Ljubljana,115,SI04,Ljubljana,38750,SI,112,133,122.5,74,13200,1
+U. Durham,99,UKC1,Durham,16900,UK,54,29,41.5,14,14600,1
+Newcastle U.,32,UKC2,Newcastle upon Tyne,22920,UK,59,54,56.5,19,15300,1
+U. Manchester,67,UKD3,Manchester,36860,UK,6,10,8,6,15200,1
+Lancaster U.,62,UKD4,Bailrigg,12150,UK,88,51,69.5,12,15500,1
+U. Liverpool,66,UKD7,Liverpool,25035,UK,27,62,44.5,20,15300,1
+U. York,77,UKE2,York,16460,UK,87,41,64,22,19000,1
+U. Sheffield,70,UKE3,Sheffield,26130,UK,37,30,33.5,13,14700,1
+U. Leeds,63,UKE4,Leeds,30805,UK,31,38,34.5,17,15300,1
+U. Bradford,53,UKE4,Bradford,10665,UK,,132,,38,15300,1
+U. Nottingham,120,UKF1,Nottingham,29570,UK,23,47,35,18,15900,1
+Loughborough U.,28,UKF2,Loughborough,16100,UK,,90,,29,16900,1
+U. Leicester,64,UKF2,Leicester,15490,UK,74,61,67.5,23,16900,1
+U. Birmingham,90,UKG3,Birmingham,32205,UK,35,49,42,28,14100,1
+U. Warwick,76,UKG3,Coventry,23375,UK,24,25,24.5,5,14100,1
+U. East Anglia,100,UKH1,Norwich,16210,UK,60,69,64.5,31,17900,1
+U. Cambridge,55,UKH1,Cambridge,14650,UK,1,2,1.5,2,17900,1
+U. Hertfordshire,111,UKH2,Hatfield,24085,UK,,123,,41,21200,1
+U. Essex,58,UKH3,Colchester,13925,UK,,82,,32,19200,1
+LSE,27,UKI3,London,10710,UK,,6,,3,45100,1
+ICL,22,UKI3,London,13550,UK,3,3,3,1,45100,1
+The Royal Veterinary and Agricultural U.,39,UKI3,London,2260,UK,,101,,15,45100,1
+Queen Mary U. London,36,UKI4,London,17665,UK,44,39,41.5,8,21900,1
+U. Reading,69,UKJ1,Reading,14740,UK,68,72,70,10,22600,1
+The Open U.,50,UKJ1,Milton Keynes,121120,UK,,117,,49,22600,1
+U. Oxford,68,UKJ1,Oxford,19570,UK,2,1,1.5,4,22600,1
+U. Sussex,75,UKJ2,Brighton,15730,UK,52,52,52,16,22700,1
+U. Surrey,74,UKJ2,Guildford,15050,UK,94,76,85,30,22700,1
+U. Southampton,71,UKJ3,Southampton,22725,UK,34,35,34.5,11,19300,1
+U. Kent,61,UKJ4,Canterbury,19080,UK,110,94,102,35,18700,1
+U. Bath,52,UKK1,Bath,15675,UK,107,81,94,27,18900,1
+U. Bristol,54,UKK1,Bristol,21530,UK,16,21,18.5,9,18900,1
+U. Exeter,59,UKK4,Exeter,21685,UK,41,45,43,21,17000,1
+Bangor U.,9,UKL1,Bangor,10700,UK,,95,,37,14600,1
+Swansea U.,42,UKL1,Swansea,18255,UK,,89,,33,14600,1
+U. New South Wales,133,UKL1,Pontypridd,23155,UK,21,136,78.5,43,14600,1
+Cardiff U.,11,UKL2,Cardiff,29740,UK,28,59,43.5,34,16000,1
+U. Aberdeen,51,UKM5,Aberdeen,13005,UK,63,63,63,45,20600,1
+U. St Andrews,72,UKM7,St Andrews,9425,UK,90,43,66.5,24,18000,1
+Heriot-Watt U.,21,UKM7,Edinburgh,9705,UK,111,96,103.5,7,18000,1
+U. Dundee,56,UKM7,Dundee,14795,UK,85.5,66,75.75,46,18000,1
+U. Edinburgh,57,UKM7,Edinburgh,28535,UK,5,4,4.5,25,18000,1
+U. Strathclyde,73,UKM8,Glasgow,21280,UK,,99,,44,16200,1
+U. Glasgow,60,UKM8,Glasgow,26320,UK,42,24,33,40,16200,1
